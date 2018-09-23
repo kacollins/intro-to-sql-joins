@@ -5,6 +5,6 @@ Slides:
 https://docs.google.com/presentation/d/1JzqXzFljkzZ5gTVrgzIV7Hhgv70Ffpi2unwnNWxbyjE
 
 Demos:
-* 0_CrossJoin.sql
-* 1_InnerJoin.sql
-* 2_LeftOuterJoin.sql
+* [CROSS JOIN](0_CrossJoin.sql)
+* [INNER JOIN](1_InnerJoin.sql)
+* [LEFT OUTER JOIN](2_LeftOuterJoin.sql)
